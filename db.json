@@ -1,4 +1,4 @@
-[
+{todos[
   {
     "id": 1,
     "title": "Clean",
@@ -29,4 +29,4 @@
     "isComplete": false,
     "createdDate": "new Date()"
   }
-]
+]}
